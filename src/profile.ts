@@ -2,7 +2,7 @@ import type { RateLimitInfo, RoutingProfile } from "@intisy-ai/basekit/proxy";
 import { anthropicTranslator } from "@intisy-ai/anthropic-translator";
 
 /** The store key this proxy reads its own routing out of. */
-export const CONFIG_FILE = "stub-proxy.json";
+export const CONFIG_FILE = "proxy-stub.json";
 
 /**
  * The rate-limit response this proxy serves once every model in a chain is exhausted.
