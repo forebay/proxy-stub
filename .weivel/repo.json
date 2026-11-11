@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "importName": "proxy-stub",
+  "description": "The smallest working front door, kept as a reference and starting point.",
+  "topics": [
+    "ai",
+    "ai-proxy",
+    "app-proxy",
+    "example",
+    "forebay",
+    "llm",
+    "proxy",
+    "template",
+    "typescript"
+  ]
+}
